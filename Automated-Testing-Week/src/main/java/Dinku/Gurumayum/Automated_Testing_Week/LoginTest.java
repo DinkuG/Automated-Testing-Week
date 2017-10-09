@@ -1,6 +1,3 @@
-package Dinku.Gurumayum.Automated_Testing_Week;
-
-
 
 import static org.junit.Assert.*;
 
